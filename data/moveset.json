@@ -1,0 +1,16 @@
+{
+    "info" : [{"level": 1, "move": "Snipe shot", "type": "Water", "category": "Special"},
+              {"level": 1, "move": "Acrobatics", "type": "Flying", "category": "Physical"},
+              {"level": 1, "move": "Pound", "type": "Normal", "category": "Physical"},
+              {"level": 1, "move": "Growl", "type": "Normal", "category": "Status"},
+              {"level": 1, "move": "Water Gun", "type": "Water", "category": "Special"},
+              {"level": "Evo.",  "move": "Snipe shot", "type": "Water", "category": "Special"},
+              {"level": 12, "move": "Water Pulse", "type": "Water", "category": "Special"},
+              {"level": 19, "move": "Tearful Look", "type": "Normal", "category": "Status"},
+              {"level": 24, "move": "Sucker Punch", "type": "Dark", "category": "Physical"},
+              {"level": 30, "move": "U-turn", "type": "Bug", "category": "Physical"},
+              {"level": 38, "move": "Liquidation", "type": "Water", "category": "Physical"},
+              {"level": 46, "move": "Soak", "type": "Water", "category": "Status"},
+              {"level": 54, "move": "Rain dance", "type": "Water", "category": "Status"},
+              {"level": 62, "move": "Hydro Pump", "type": "Water", "category": "Special"}]
+}
